@@ -1,0 +1,528 @@
+DATE;PRODUCT ID;QUANTITY;SALE TYPE;PAYMENT MODE;DISCOUNT %
+01/01/2021;P0024;9;Wholesaler;Online;0,0%
+02/01/2021;P0038;15;Online;Cash;0,0%
+02/01/2021;P0013;6;Direct Sales;Cash;0,0%
+03/01/2021;P0004;5;Direct Sales;Online;0,0%
+04/01/2021;P0035;12;Online;Online;0,0%
+09/01/2021;P0031;1;Direct Sales;Cash;0,0%
+09/01/2021;P0003;8;Direct Sales;Cash;0,0%
+09/01/2021;P0025;4;Direct Sales;Online;0,0%
+11/01/2021;P0037;3;Direct Sales;Cash;0,0%
+11/01/2021;P0014;4;Wholesaler;Online;0,0%
+11/01/2021;P0042;4;Direct Sales;Online;0,0%
+12/01/2021;P0042;10;Online;Cash;0,0%
+18/01/2021;P0044;13;Direct Sales;Online;0,0%
+18/01/2021;P0023;3;Online;Cash;0,0%
+19/01/2021;P0035;6;Direct Sales;Cash;0,0%
+20/01/2021;P0034;4;Direct Sales;Cash;0,0%
+20/01/2021;P0020;4;Direct Sales;Cash;0,0%
+21/01/2021;P0004;15;Wholesaler;Cash;0,0%
+21/01/2021;P0003;9;Direct Sales;Online;0,0%
+21/01/2021;P0042;6;Direct Sales;Online;0,0%
+25/01/2021;P0034;6;Direct Sales;Cash;0,0%
+25/01/2021;P0035;7;Direct Sales;Online;0,0%
+25/01/2021;P0031;14;Direct Sales;Online;0,0%
+26/01/2021;P0044;9;Wholesaler;Cash;0,0%
+26/01/2021;P0006;7;Online;Cash;0,0%
+26/01/2021;P0001;7;Online;Online;0,0%
+27/01/2021;P0040;7;Wholesaler;Online;0,0%
+27/01/2021;P0032;3;Wholesaler;Online;0,0%
+28/01/2021;P0004;10;Online;Cash;0,0%
+28/01/2021;P0029;2;Direct Sales;Cash;0,0%
+02/02/2021;P0010;7;Online;Online;0,0%
+03/02/2021;P0016;13;Direct Sales;Online;0,0%
+03/02/2021;P0022;2;Wholesaler;Cash;0,0%
+04/02/2021;P0037;4;Online;Online;0,0%
+05/02/2021;P0043;7;Online;Cash;0,0%
+05/02/2021;P0005;1;Direct Sales;Cash;0,0%
+05/02/2021;P0043;9;Direct Sales;Cash;0,0%
+06/02/2021;P0035;1;Direct Sales;Cash;0,0%
+09/02/2021;P0034;14;Direct Sales;Online;0,0%
+12/02/2021;P0008;7;Direct Sales;Cash;0,0%
+12/02/2021;P0023;9;Online;Cash;0,0%
+15/02/2021;P0027;4;Direct Sales;Online;0,0%
+18/02/2021;P0015;6;Online;Cash;0,0%
+20/02/2021;P0030;11;Online;Cash;0,0%
+22/02/2021;P0013;5;Online;Cash;0,0%
+23/02/2021;P0025;3;Direct Sales;Cash;0,0%
+23/02/2021;P0005;2;Direct Sales;Online;0,0%
+25/02/2021;P0002;4;Wholesaler;Online;0,0%
+25/02/2021;P0032;11;Online;Cash;0,0%
+25/02/2021;P0030;2;Direct Sales;Online;0,0%
+27/02/2021;P0018;11;Wholesaler;Online;0,0%
+03/03/2021;P0011;1;Direct Sales;Online;0,0%
+07/03/2021;P0021;9;Direct Sales;Cash;0,0%
+08/03/2021;P0027;6;Online;Cash;0,0%
+08/03/2021;P0044;9;Online;Online;0,0%
+09/03/2021;P0029;6;Wholesaler;Online;0,0%
+11/03/2021;P0025;11;Direct Sales;Cash;0,0%
+13/03/2021;P0028;10;Wholesaler;Cash;0,0%
+15/03/2021;P0039;11;Online;Cash;0,0%
+16/03/2021;P0012;14;Direct Sales;Cash;0,0%
+18/03/2021;P0042;8;Wholesaler;Cash;0,0%
+19/03/2021;P0028;9;Online;Cash;0,0%
+21/03/2021;P0020;13;Online;Online;0,0%
+21/03/2021;P0039;7;Direct Sales;Online;0,0%
+22/03/2021;P0002;8;Online;Online;0,0%
+22/03/2021;P0012;4;Online;Online;0,0%
+25/03/2021;P0024;14;Online;Cash;0,0%
+25/03/2021;P0006;4;Direct Sales;Cash;0,0%
+25/03/2021;P0029;8;Direct Sales;Cash;0,0%
+25/03/2021;P0038;2;Direct Sales;Online;0,0%
+26/03/2021;P0001;4;Direct Sales;Cash;0,0%
+26/03/2021;P0042;1;Direct Sales;Cash;0,0%
+26/03/2021;P0010;9;Direct Sales;Online;0,0%
+27/03/2021;P0030;3;Direct Sales;Online;0,0%
+28/03/2021;P0007;8;Online;Cash;0,0%
+30/03/2021;P0038;1;Online;Cash;0,0%
+31/03/2021;P0042;3;Direct Sales;Cash;0,0%
+04/04/2021;P0040;4;Direct Sales;Cash;0,0%
+04/04/2021;P0009;9;Online;Cash;0,0%
+05/04/2021;P0031;15;Online;Online;0,0%
+09/04/2021;P0005;3;Online;Online;0,0%
+10/04/2021;P0022;14;Direct Sales;Online;0,0%
+12/04/2021;P0037;3;Direct Sales;Cash;0,0%
+12/04/2021;P0029;4;Direct Sales;Online;0,0%
+12/04/2021;P0027;9;Direct Sales;Online;0,0%
+12/04/2021;P0033;13;Direct Sales;Cash;0,0%
+15/04/2021;P0017;3;Direct Sales;Online;0,0%
+16/04/2021;P0018;15;Direct Sales;Cash;0,0%
+18/04/2021;P0038;9;Wholesaler;Online;0,0%
+18/04/2021;P0019;13;Direct Sales;Cash;0,0%
+23/04/2021;P0042;6;Direct Sales;Online;0,0%
+23/04/2021;P0028;10;Direct Sales;Online;0,0%
+24/04/2021;P0030;2;Online;Online;0,0%
+26/04/2021;P0037;3;Direct Sales;Online;0,0%
+29/04/2021;P0030;7;Direct Sales;Online;0,0%
+30/04/2021;P0029;1;Direct Sales;Online;0,0%
+01/05/2021;P0018;3;Online;Cash;0,0%
+01/05/2021;P0042;1;Online;Cash;0,0%
+03/05/2021;P0034;3;Online;Online;0,0%
+04/05/2021;P0015;13;Online;Online;0,0%
+04/05/2021;P0014;4;Direct Sales;Cash;0,0%
+05/05/2021;P0009;13;Direct Sales;Cash;0,0%
+06/05/2021;P0008;15;Direct Sales;Online;0,0%
+06/05/2021;P0009;6;Online;Online;0,0%
+07/05/2021;P0018;1;Direct Sales;Cash;0,0%
+09/05/2021;P0016;6;Online;Online;0,0%
+09/05/2021;P0028;8;Direct Sales;Cash;0,0%
+12/05/2021;P0016;3;Direct Sales;Online;0,0%
+12/05/2021;P0035;15;Direct Sales;Online;0,0%
+13/05/2021;P0029;4;Direct Sales;Online;0,0%
+20/05/2021;P0042;2;Online;Cash;0,0%
+23/05/2021;P0040;11;Direct Sales;Online;0,0%
+30/05/2021;P0023;13;Online;Online;0,0%
+30/05/2021;P0013;6;Online;Cash;0,0%
+03/06/2021;P0021;10;Direct Sales;Cash;0,0%
+04/06/2021;P0020;8;Wholesaler;Online;0,0%
+04/06/2021;P0020;12;Online;Cash;0,0%
+05/06/2021;P0022;15;Wholesaler;Online;0,0%
+05/06/2021;P0035;10;Direct Sales;Online;0,0%
+06/06/2021;P0033;6;Direct Sales;Online;0,0%
+08/06/2021;P0028;11;Direct Sales;Online;0,0%
+08/06/2021;P0004;11;Wholesaler;Cash;0,0%
+09/06/2021;P0001;7;Direct Sales;Online;0,0%
+11/06/2021;P0032;12;Wholesaler;Cash;0,0%
+12/06/2021;P0041;6;Direct Sales;Online;0,0%
+14/06/2021;P0025;10;Online;Cash;0,0%
+16/06/2021;P0019;5;Wholesaler;Cash;0,0%
+16/06/2021;P0015;12;Online;Cash;0,0%
+16/06/2021;P0039;11;Direct Sales;Cash;0,0%
+18/06/2021;P0025;13;Direct Sales;Cash;0,0%
+19/06/2021;P0041;5;Direct Sales;Online;0,0%
+20/06/2021;P0016;1;Wholesaler;Cash;0,0%
+23/06/2021;P0016;4;Direct Sales;Online;0,0%
+24/06/2021;P0011;13;Direct Sales;Online;0,0%
+26/06/2021;P0009;7;Online;Online;0,0%
+27/06/2021;P0005;11;Direct Sales;Cash;0,0%
+28/06/2021;P0021;2;Online;Cash;0,0%
+28/06/2021;P0035;7;Online;Online;0,0%
+29/06/2021;P0014;4;Direct Sales;Online;0,0%
+01/07/2021;P0005;11;Direct Sales;Cash;0,0%
+02/07/2021;P0010;11;Direct Sales;Cash;0,0%
+03/07/2021;P0033;9;Online;Cash;0,0%
+03/07/2021;P0003;8;Online;Cash;0,0%
+05/07/2021;P0002;8;Direct Sales;Online;0,0%
+06/07/2021;P0041;15;Direct Sales;Cash;0,0%
+08/07/2021;P0004;10;Direct Sales;Online;0,0%
+10/07/2021;P0034;6;Wholesaler;Cash;0,0%
+11/07/2021;P0009;4;Wholesaler;Online;0,0%
+13/07/2021;P0019;1;Direct Sales;Cash;0,0%
+16/07/2021;P0023;8;Wholesaler;Cash;0,0%
+18/07/2021;P0027;14;Online;Online;0,0%
+20/07/2021;P0038;11;Online;Online;0,0%
+20/07/2021;P0043;5;Direct Sales;Online;0,0%
+21/07/2021;P0029;15;Direct Sales;Online;0,0%
+22/07/2021;P0026;3;Wholesaler;Cash;0,0%
+22/07/2021;P0024;14;Online;Cash;0,0%
+23/07/2021;P0036;7;Wholesaler;Online;0,0%
+23/07/2021;P0037;8;Direct Sales;Online;0,0%
+24/07/2021;P0009;4;Online;Cash;0,0%
+29/07/2021;P0044;15;Online;Cash;0,0%
+01/08/2021;P0001;11;Direct Sales;Cash;0,0%
+02/08/2021;P0023;3;Direct Sales;Online;0,0%
+03/08/2021;P0022;13;Online;Online;0,0%
+03/08/2021;P0034;12;Online;Online;0,0%
+05/08/2021;P0028;14;Direct Sales;Cash;0,0%
+06/08/2021;P0037;1;Wholesaler;Cash;0,0%
+10/08/2021;P0005;4;Wholesaler;Cash;0,0%
+10/08/2021;P0044;10;Online;Cash;0,0%
+10/08/2021;P0006;6;Direct Sales;Cash;0,0%
+11/08/2021;P0023;4;Direct Sales;Online;0,0%
+13/08/2021;P0011;13;Direct Sales;Online;0,0%
+13/08/2021;P0027;9;Direct Sales;Online;0,0%
+16/08/2021;P0003;3;Online;Online;0,0%
+18/08/2021;P0025;6;Direct Sales;Online;0,0%
+20/08/2021;P0020;15;Direct Sales;Cash;0,0%
+20/08/2021;P0031;9;Direct Sales;Online;0,0%
+20/08/2021;P0028;13;Direct Sales;Online;0,0%
+26/08/2021;P0039;4;Direct Sales;Online;0,0%
+29/08/2021;P0034;12;Wholesaler;Online;0,0%
+30/08/2021;P0013;13;Direct Sales;Online;0,0%
+31/08/2021;P0001;2;Direct Sales;Online;0,0%
+31/08/2021;P0035;11;Direct Sales;Online;0,0%
+01/09/2021;P0024;1;Wholesaler;Cash;0,0%
+01/09/2021;P0003;14;Online;Online;0,0%
+03/09/2021;P0041;8;Direct Sales;Online;0,0%
+04/09/2021;P0028;7;Direct Sales;Online;0,0%
+04/09/2021;P0023;15;Direct Sales;Online;0,0%
+05/09/2021;P0032;1;Direct Sales;Cash;0,0%
+07/09/2021;P0019;5;Direct Sales;Online;0,0%
+09/09/2021;P0044;4;Direct Sales;Online;0,0%
+10/09/2021;P0030;6;Direct Sales;Online;0,0%
+10/09/2021;P0001;9;Wholesaler;Online;0,0%
+10/09/2021;P0026;2;Direct Sales;Online;0,0%
+11/09/2021;P0001;6;Wholesaler;Online;0,0%
+13/09/2021;P0041;7;Direct Sales;Cash;0,0%
+15/09/2021;P0042;6;Direct Sales;Online;0,0%
+15/09/2021;P0042;14;Direct Sales;Online;0,0%
+21/09/2021;P0020;7;Wholesaler;Cash;0,0%
+22/09/2021;P0040;2;Online;Cash;0,0%
+22/09/2021;P0002;4;Direct Sales;Cash;0,0%
+23/09/2021;P0018;12;Direct Sales;Cash;0,0%
+23/09/2021;P0021;7;Online;Online;0,0%
+27/09/2021;P0034;1;Direct Sales;Cash;0,0%
+30/09/2021;P0014;9;Online;Online;0,0%
+30/09/2021;P0006;5;Online;Online;0,0%
+01/10/2021;P0030;14;Online;Cash;0,0%
+02/10/2021;P0014;15;Direct Sales;Online;0,0%
+03/10/2021;P0019;9;Direct Sales;Online;0,0%
+06/10/2021;P0035;1;Direct Sales;Online;0,0%
+06/10/2021;P0036;12;Online;Online;0,0%
+07/10/2021;P0026;6;Direct Sales;Cash;0,0%
+09/10/2021;P0038;5;Direct Sales;Cash;0,0%
+09/10/2021;P0032;11;Online;Cash;0,0%
+10/10/2021;P0035;14;Direct Sales;Cash;0,0%
+11/10/2021;P0011;15;Direct Sales;Cash;0,0%
+12/10/2021;P0027;8;Online;Online;0,0%
+17/10/2021;P0001;13;Direct Sales;Online;0,0%
+18/10/2021;P0025;6;Online;Cash;0,0%
+18/10/2021;P0021;13;Online;Cash;0,0%
+22/10/2021;P0011;7;Direct Sales;Cash;0,0%
+22/10/2021;P0024;13;Online;Cash;0,0%
+22/10/2021;P0009;1;Direct Sales;Cash;0,0%
+24/10/2021;P0011;3;Wholesaler;Cash;0,0%
+25/10/2021;P0044;9;Online;Cash;0,0%
+26/10/2021;P0004;6;Wholesaler;Cash;0,0%
+28/10/2021;P0008;1;Direct Sales;Cash;0,0%
+29/10/2021;P0038;14;Online;Online;0,0%
+31/10/2021;P0021;6;Online;Cash;0,0%
+03/11/2021;P0013;12;Direct Sales;Cash;0,0%
+06/11/2021;P0036;10;Direct Sales;Online;0,0%
+08/11/2021;P0007;15;Direct Sales;Online;0,0%
+10/11/2021;P0042;6;Online;Cash;0,0%
+11/11/2021;P0040;12;Wholesaler;Online;0,0%
+12/11/2021;P0010;3;Online;Cash;0,0%
+20/11/2021;P0034;14;Online;Online;0,0%
+20/11/2021;P0008;11;Online;Cash;0,0%
+21/11/2021;P0014;1;Wholesaler;Online;0,0%
+21/11/2021;P0006;1;Online;Cash;0,0%
+27/11/2021;P0012;8;Online;Online;0,0%
+28/11/2021;P0040;2;Direct Sales;Cash;0,0%
+30/11/2021;P0039;15;Direct Sales;Online;0,0%
+02/12/2021;P0016;10;Direct Sales;Cash;0,0%
+03/12/2021;P0034;2;Online;Cash;0,0%
+03/12/2021;P0019;8;Online;Online;0,0%
+05/12/2021;P0004;15;Direct Sales;Cash;0,0%
+05/12/2021;P0010;1;Direct Sales;Online;0,0%
+07/12/2021;P0013;8;Direct Sales;Online;0,0%
+08/12/2021;P0044;14;Direct Sales;Online;0,0%
+14/12/2021;P0042;4;Direct Sales;Online;0,0%
+18/12/2021;P0003;2;Direct Sales;Cash;0,0%
+18/12/2021;P0022;8;Online;Cash;0,0%
+19/12/2021;P0023;12;Direct Sales;Online;0,0%
+19/12/2021;P0029;3;Wholesaler;Online;0,0%
+19/12/2021;P0011;10;Online;Online;0,0%
+20/12/2021;P0012;14;Direct Sales;Online;0,0%
+21/12/2021;P0026;10;Online;Cash;0,0%
+24/12/2021;P0042;8;Wholesaler;Cash;0,0%
+24/12/2021;P0036;8;Wholesaler;Online;0,0%
+26/12/2021;P0041;14;Online;Cash;0,0%
+27/12/2021;P0029;14;Direct Sales;Cash;0,0%
+28/12/2021;P0029;6;Direct Sales;Cash;0,0%
+30/12/2021;P0010;13;Online;Online;0,0%
+01/01/2022;P0022;1;Wholesaler;Cash;0,0%
+02/01/2022;P0010;7;Direct Sales;Cash;0,0%
+02/01/2022;P0015;2;Online;Cash;0,0%
+02/01/2022;P0033;1;Direct Sales;Cash;0,0%
+03/01/2022;P0043;9;Direct Sales;Cash;0,0%
+04/01/2022;P0012;8;Direct Sales;Online;0,0%
+04/01/2022;P0029;1;Online;Online;0,0%
+09/01/2022;P0032;12;Direct Sales;Online;0,0%
+10/01/2022;P0034;14;Online;Online;0,0%
+11/01/2022;P0032;2;Direct Sales;Online;0,0%
+13/01/2022;P0019;6;Online;Online;0,0%
+14/01/2022;P0011;14;Direct Sales;Online;0,0%
+15/01/2022;P0022;10;Direct Sales;Cash;0,0%
+16/01/2022;P0014;11;Online;Cash;0,0%
+17/01/2022;P0040;4;Online;Online;0,0%
+18/01/2022;P0008;9;Wholesaler;Cash;0,0%
+20/01/2022;P0021;2;Direct Sales;Cash;0,0%
+20/01/2022;P0014;7;Online;Online;0,0%
+22/01/2022;P0001;6;Online;Cash;0,0%
+23/01/2022;P0002;5;Wholesaler;Cash;0,0%
+23/01/2022;P0042;8;Direct Sales;Online;0,0%
+24/01/2022;P0030;15;Online;Online;0,0%
+25/01/2022;P0017;14;Direct Sales;Cash;0,0%
+28/01/2022;P0016;11;Direct Sales;Online;0,0%
+31/01/2022;P0023;6;Online;Cash;0,0%
+31/01/2022;P0041;9;Direct Sales;Cash;0,0%
+01/02/2022;P0005;9;Direct Sales;Cash;0,0%
+03/02/2022;P0014;8;Direct Sales;Online;0,0%
+05/02/2022;P0018;6;Direct Sales;Cash;0,0%
+06/02/2022;P0002;6;Direct Sales;Cash;0,0%
+08/02/2022;P0005;11;Online;Cash;0,0%
+08/02/2022;P0004;3;Online;Cash;0,0%
+09/02/2022;P0032;14;Online;Online;0,0%
+12/02/2022;P0010;13;Direct Sales;Cash;0,0%
+14/02/2022;P0026;8;Online;Cash;0,0%
+14/02/2022;P0028;3;Direct Sales;Cash;0,0%
+16/02/2022;P0032;1;Online;Cash;0,0%
+19/02/2022;P0002;13;Online;Cash;0,0%
+20/02/2022;P0012;6;Direct Sales;Cash;0,0%
+23/02/2022;P0013;6;Online;Online;0,0%
+23/02/2022;P0016;15;Online;Cash;0,0%
+23/02/2022;P0036;8;Direct Sales;Online;0,0%
+27/02/2022;P0012;7;Direct Sales;Cash;0,0%
+27/02/2022;P0005;15;Direct Sales;Online;0,0%
+28/02/2022;P0037;15;Direct Sales;Cash;0,0%
+04/03/2022;P0026;13;Wholesaler;Online;0,0%
+06/03/2022;P0004;2;Direct Sales;Cash;0,0%
+07/03/2022;P0003;1;Direct Sales;Cash;0,0%
+08/03/2022;P0044;6;Direct Sales;Online;0,0%
+09/03/2022;P0030;3;Direct Sales;Online;0,0%
+09/03/2022;P0004;11;Online;Cash;0,0%
+10/03/2022;P0033;12;Wholesaler;Online;0,0%
+14/03/2022;P0016;2;Direct Sales;Cash;0,0%
+14/03/2022;P0026;13;Direct Sales;Online;0,0%
+18/03/2022;P0019;2;Online;Cash;0,0%
+18/03/2022;P0027;10;Direct Sales;Cash;0,0%
+19/03/2022;P0041;6;Wholesaler;Cash;0,0%
+23/03/2022;P0032;9;Direct Sales;Cash;0,0%
+25/03/2022;P0001;2;Wholesaler;Online;0,0%
+25/03/2022;P0030;11;Direct Sales;Online;0,0%
+29/03/2022;P0032;12;Online;Online;0,0%
+30/03/2022;P0001;13;Online;Cash;0,0%
+01/04/2022;P0002;2;Online;Cash;0,0%
+02/04/2022;P0002;3;Direct Sales;Cash;0,0%
+06/04/2022;P0040;2;Wholesaler;Cash;0,0%
+07/04/2022;P0026;7;Direct Sales;Online;0,0%
+09/04/2022;P0039;12;Wholesaler;Cash;0,0%
+09/04/2022;P0002;9;Online;Online;0,0%
+13/04/2022;P0016;14;Wholesaler;Online;0,0%
+18/04/2022;P0041;9;Direct Sales;Cash;0,0%
+20/04/2022;P0018;2;Wholesaler;Online;0,0%
+20/04/2022;P0012;4;Direct Sales;Online;0,0%
+21/04/2022;P0030;2;Direct Sales;Cash;0,0%
+21/04/2022;P0026;14;Online;Online;0,0%
+23/04/2022;P0044;15;Online;Online;0,0%
+24/04/2022;P0034;4;Direct Sales;Online;0,0%
+25/04/2022;P0004;9;Direct Sales;Cash;0,0%
+25/04/2022;P0003;8;Online;Online;0,0%
+26/04/2022;P0027;2;Direct Sales;Cash;0,0%
+28/04/2022;P0014;14;Direct Sales;Cash;0,0%
+30/04/2022;P0016;13;Online;Online;0,0%
+30/04/2022;P0027;8;Direct Sales;Online;0,0%
+01/05/2022;P0034;9;Wholesaler;Online;0,0%
+01/05/2022;P0033;6;Online;Online;0,0%
+02/05/2022;P0013;4;Online;Cash;0,0%
+04/05/2022;P0020;10;Direct Sales;Online;0,0%
+06/05/2022;P0034;7;Direct Sales;Online;0,0%
+07/05/2022;P0015;4;Online;Cash;0,0%
+07/05/2022;P0027;1;Online;Online;0,0%
+08/05/2022;P0022;7;Online;Online;0,0%
+09/05/2022;P0017;12;Wholesaler;Cash;0,0%
+10/05/2022;P0009;6;Direct Sales;Online;0,0%
+12/05/2022;P0011;7;Online;Cash;0,0%
+13/05/2022;P0012;5;Direct Sales;Online;0,0%
+14/05/2022;P0008;14;Direct Sales;Cash;0,0%
+15/05/2022;P0020;5;Online;Online;0,0%
+16/05/2022;P0010;13;Direct Sales;Cash;0,0%
+16/05/2022;P0031;13;Online;Online;0,0%
+17/05/2022;P0027;8;Direct Sales;Cash;0,0%
+18/05/2022;P0027;4;Wholesaler;Online;0,0%
+18/05/2022;P0038;8;Wholesaler;Online;0,0%
+20/05/2022;P0044;15;Online;Cash;0,0%
+22/05/2022;P0015;12;Direct Sales;Online;0,0%
+25/05/2022;P0002;7;Online;Online;0,0%
+26/05/2022;P0028;2;Direct Sales;Online;0,0%
+26/05/2022;P0027;2;Online;Online;0,0%
+28/05/2022;P0041;10;Wholesaler;Cash;0,0%
+28/05/2022;P0008;5;Wholesaler;Online;0,0%
+28/05/2022;P0010;9;Online;Cash;0,0%
+28/05/2022;P0004;12;Online;Online;0,0%
+28/05/2022;P0020;14;Direct Sales;Cash;0,0%
+30/05/2022;P0044;9;Direct Sales;Online;0,0%
+30/05/2022;P0005;4;Wholesaler;Cash;0,0%
+30/05/2022;P0033;3;Online;Cash;0,0%
+03/06/2022;P0008;14;Online;Online;0,0%
+10/06/2022;P0028;8;Wholesaler;Online;0,0%
+11/06/2022;P0039;13;Online;Cash;0,0%
+11/06/2022;P0021;6;Direct Sales;Online;0,0%
+13/06/2022;P0026;6;Direct Sales;Cash;0,0%
+15/06/2022;P0042;15;Wholesaler;Online;0,0%
+16/06/2022;P0029;15;Online;Cash;0,0%
+19/06/2022;P0002;8;Direct Sales;Cash;0,0%
+21/06/2022;P0017;14;Direct Sales;Cash;0,0%
+22/06/2022;P0040;10;Online;Cash;0,0%
+22/06/2022;P0001;4;Direct Sales;Cash;0,0%
+23/06/2022;P0004;8;Direct Sales;Online;0,0%
+24/06/2022;P0018;7;Direct Sales;Cash;0,0%
+25/06/2022;P0012;7;Online;Online;0,0%
+26/06/2022;P0034;4;Direct Sales;Cash;0,0%
+26/06/2022;P0043;12;Direct Sales;Online;0,0%
+03/07/2022;P0033;15;Direct Sales;Cash;0,0%
+04/07/2022;P0007;7;Direct Sales;Online;0,0%
+05/07/2022;P0025;7;Online;Cash;0,0%
+05/07/2022;P0015;8;Direct Sales;Online;0,0%
+06/07/2022;P0041;2;Direct Sales;Cash;0,0%
+08/07/2022;P0018;2;Direct Sales;Online;0,0%
+10/07/2022;P0032;12;Online;Cash;0,0%
+12/07/2022;P0028;12;Direct Sales;Cash;0,0%
+13/07/2022;P0025;7;Direct Sales;Online;0,0%
+14/07/2022;P0033;9;Direct Sales;Online;0,0%
+15/07/2022;P0004;2;Online;Online;0,0%
+17/07/2022;P0041;8;Online;Cash;0,0%
+18/07/2022;P0010;12;Direct Sales;Online;0,0%
+20/07/2022;P0042;8;Wholesaler;Online;0,0%
+22/07/2022;P0034;6;Direct Sales;Cash;0,0%
+23/07/2022;P0018;2;Online;Online;0,0%
+24/07/2022;P0006;14;Direct Sales;Cash;0,0%
+24/07/2022;P0027;1;Online;Online;0,0%
+25/07/2022;P0044;2;Direct Sales;Cash;0,0%
+25/07/2022;P0017;12;Direct Sales;Cash;0,0%
+25/07/2022;P0003;13;Online;Cash;0,0%
+26/07/2022;P0003;10;Online;Online;0,0%
+26/07/2022;P0026;1;Online;Cash;0,0%
+03/08/2022;P0012;5;Direct Sales;Cash;0,0%
+06/08/2022;P0016;9;Online;Online;0,0%
+08/08/2022;P0016;2;Direct Sales;Online;0,0%
+08/08/2022;P0032;12;Direct Sales;Cash;0,0%
+08/08/2022;P0021;11;Direct Sales;Cash;0,0%
+14/08/2022;P0030;14;Direct Sales;Cash;0,0%
+15/08/2022;P0011;10;Wholesaler;Cash;0,0%
+15/08/2022;P0015;7;Direct Sales;Online;0,0%
+18/08/2022;P0029;8;Online;Online;0,0%
+18/08/2022;P0010;2;Online;Cash;0,0%
+19/08/2022;P0007;3;Online;Online;0,0%
+20/08/2022;P0023;13;Direct Sales;Online;0,0%
+20/08/2022;P0033;14;Direct Sales;Online;0,0%
+21/08/2022;P0016;4;Direct Sales;Online;0,0%
+23/08/2022;P0044;11;Online;Online;0,0%
+23/08/2022;P0029;14;Direct Sales;Cash;0,0%
+24/08/2022;P0005;5;Direct Sales;Cash;0,0%
+26/08/2022;P0019;13;Wholesaler;Cash;0,0%
+26/08/2022;P0037;8;Online;Online;0,0%
+27/08/2022;P0039;15;Wholesaler;Online;0,0%
+28/08/2022;P0005;9;Online;Online;0,0%
+28/08/2022;P0039;5;Direct Sales;Online;0,0%
+30/08/2022;P0006;6;Online;Cash;0,0%
+30/08/2022;P0043;6;Direct Sales;Cash;0,0%
+30/08/2022;P0025;5;Direct Sales;Cash;0,0%
+31/08/2022;P0015;13;Direct Sales;Cash;0,0%
+04/09/2022;P0002;1;Direct Sales;Cash;0,0%
+06/09/2022;P0005;12;Wholesaler;Online;0,0%
+09/09/2022;P0041;9;Direct Sales;Online;0,0%
+09/09/2022;P0003;3;Direct Sales;Online;0,0%
+10/09/2022;P0035;15;Online;Cash;0,0%
+10/09/2022;P0038;4;Direct Sales;Cash;0,0%
+14/09/2022;P0029;3;Direct Sales;Cash;0,0%
+15/09/2022;P0037;15;Online;Online;0,0%
+18/09/2022;P0026;14;Online;Cash;0,0%
+19/09/2022;P0033;8;Wholesaler;Cash;0,0%
+20/09/2022;P0033;6;Direct Sales;Online;0,0%
+20/09/2022;P0001;10;Direct Sales;Online;0,0%
+21/09/2022;P0018;14;Online;Online;0,0%
+21/09/2022;P0026;5;Direct Sales;Cash;0,0%
+22/09/2022;P0043;12;Online;Online;0,0%
+23/09/2022;P0012;12;Direct Sales;Online;0,0%
+24/09/2022;P0032;14;Direct Sales;Online;0,0%
+24/09/2022;P0032;8;Direct Sales;Cash;0,0%
+27/09/2022;P0036;4;Direct Sales;Cash;0,0%
+27/09/2022;P0044;9;Direct Sales;Cash;0,0%
+27/09/2022;P0038;3;Wholesaler;Cash;0,0%
+29/09/2022;P0034;13;Direct Sales;Online;0,0%
+03/10/2022;P0011;5;Direct Sales;Cash;0,0%
+04/10/2022;P0007;15;Direct Sales;Online;0,0%
+06/10/2022;P0035;1;Direct Sales;Online;0,0%
+09/10/2022;P0038;14;Online;Online;0,0%
+10/10/2022;P0019;9;Direct Sales;Online;0,0%
+10/10/2022;P0044;12;Online;Online;0,0%
+11/10/2022;P0008;10;Direct Sales;Online;0,0%
+13/10/2022;P0002;15;Online;Online;0,0%
+14/10/2022;P0044;15;Wholesaler;Online;0,0%
+15/10/2022;P0015;10;Direct Sales;Cash;0,0%
+16/10/2022;P0036;3;Online;Online;0,0%
+23/10/2022;P0024;14;Online;Cash;0,0%
+30/10/2022;P0042;3;Direct Sales;Cash;0,0%
+31/10/2022;P0038;8;Direct Sales;Online;0,0%
+01/11/2022;P0012;15;Wholesaler;Online;0,0%
+02/11/2022;P0015;15;Wholesaler;Cash;0,0%
+02/11/2022;P0030;15;Direct Sales;Cash;0,0%
+02/11/2022;P0035;5;Direct Sales;Cash;0,0%
+03/11/2022;P0020;11;Online;Online;0,0%
+04/11/2022;P0008;10;Direct Sales;Online;0,0%
+05/11/2022;P0019;15;Direct Sales;Cash;0,0%
+06/11/2022;P0043;13;Direct Sales;Cash;0,0%
+06/11/2022;P0015;13;Online;Online;0,0%
+06/11/2022;P0042;13;Direct Sales;Cash;0,0%
+07/11/2022;P0040;13;Online;Cash;0,0%
+08/11/2022;P0036;11;Wholesaler;Cash;0,0%
+08/11/2022;P0019;10;Wholesaler;Online;0,0%
+09/11/2022;P0027;8;Online;Cash;0,0%
+10/11/2022;P0018;7;Direct Sales;Online;0,0%
+13/11/2022;P0027;10;Wholesaler;Cash;0,0%
+14/11/2022;P0002;1;Direct Sales;Cash;0,0%
+15/11/2022;P0012;14;Direct Sales;Cash;0,0%
+16/11/2022;P0017;8;Online;Online;0,0%
+18/11/2022;P0034;8;Direct Sales;Cash;0,0%
+21/11/2022;P0020;6;Direct Sales;Cash;0,0%
+23/11/2022;P0036;12;Online;Online;0,0%
+25/11/2022;P0004;5;Direct Sales;Cash;0,0%
+26/11/2022;P0032;5;Direct Sales;Online;0,0%
+27/11/2022;P0034;15;Direct Sales;Online;0,0%
+28/11/2022;P0031;8;Direct Sales;Cash;0,0%
+30/11/2022;P0015;2;Direct Sales;Online;0,0%
+03/12/2022;P0028;5;Wholesaler;Cash;0,0%
+04/12/2022;P0026;10;Direct Sales;Cash;0,0%
+04/12/2022;P0044;15;Direct Sales;Cash;0,0%
+07/12/2022;P0038;12;Direct Sales;Cash;0,0%
+07/12/2022;P0016;13;Direct Sales;Online;0,0%
+07/12/2022;P0038;5;Direct Sales;Cash;0,0%
+11/12/2022;P0027;5;Direct Sales;Online;0,0%
+11/12/2022;P0013;9;Wholesaler;Online;0,0%
+11/12/2022;P0014;10;Online;Cash;0,0%
+12/12/2022;P0030;9;Wholesaler;Cash;0,0%
+12/12/2022;P0041;10;Wholesaler;Online;0,0%
+14/12/2022;P0005;4;Direct Sales;Cash;0,0%
+15/12/2022;P0009;13;Direct Sales;Online;0,0%
+19/12/2022;P0044;7;Direct Sales;Online;0,0%
+19/12/2022;P0011;14;Direct Sales;Cash;0,0%
+19/12/2022;P0009;11;Online;Online;0,0%
+21/12/2022;P0006;10;Direct Sales;Online;0,0%
+29/12/2022;P0008;15;Direct Sales;Online;0,0%
+29/12/2022;P0042;1;Wholesaler;Cash;0,0%
+30/12/2022;P0041;14;Direct Sales;Online;0,0%
+31/12/2022;P0033;12;Online;Online;0,0%
+31/12/2022;P0011;6;Online;Online;0,0%
+31/12/2022;P0011;3;Wholesaler;Cash;0,0%
