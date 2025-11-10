@@ -52,7 +52,7 @@ The primary performance indicators are prominently featured to support swift exe
 
 | File Name | Purpose |
 | :--- | :--- |
-| `Supermarket SHop Managerial Dashboard.xlsx` | The comprehensive, interactive Microsoft Excel workbook containing the final dashboard, all pivot tables, and the calculation engine. |
+| `Supermarket Sop Managerial Dashboard.xlsx` | The comprehensive, interactive Microsoft Excel workbook containing the final dashboard, all pivot tables, and the calculation engine. |
 | `Input Data.csv` | The raw, original transactional sales data exported in CSV format. |
 | `Master Data.csv` | The cleaned, enhanced, and modeled dataset, serving as the definitive source for all dashboard components. |
 | `Analysis.xlsx` | Supporting data extracted from the analysis sheet, containing pivot tables and calculation outputs. |
